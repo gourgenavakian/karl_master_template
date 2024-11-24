@@ -1,0 +1,32 @@
+{
+  "colors": [
+    {
+      "color": "gray",
+      "count": 3
+    },
+    {
+      "color": "red",
+      "count": 25
+    },
+    {
+      "color": "yellow",
+      "count": 112
+    },
+    {
+      "color": "teal",
+      "count": 9
+    },
+    {
+      "color": "cyan",
+      "count": 29
+    }
+  ],
+  "sizes": [
+    "XS",
+    "S",
+    "M",
+    "L",
+    "XL",
+    "XXL"
+  ]
+}

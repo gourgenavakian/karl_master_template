@@ -1,0 +1,118 @@
+[
+  {
+    "id": 1,
+    "title": "Woman wear"
+  },
+
+
+  {
+    "id": 2,
+    "title": "Midi Dresses",
+    "parentId": 1
+  },
+  {
+    "id": 3,
+    "title": "Maxi Dresses",
+    "parentId": 1
+  },
+  {
+    "id": 4,
+    "title": "Prom Dresses",
+    "parentId": 1
+  },
+  {
+    "id": 5,
+    "title": "Little Black Dresses",
+    "parentId": 1
+  },
+  {
+    "id": 6,
+    "title": "Mini Dresses",
+    "parentId": 1
+  },
+  {
+    "id": 7,
+    "title": "Man Wear"
+  },
+  {
+    "id": 8,
+    "title": "Man Dresses",
+    "parentId": 7
+  },
+  {
+    "id": 9,
+    "title": "Man Black Dresses",
+    "parentId": 7
+  },
+  {
+    "id": 10,
+    "title": "Man Mini Dresses",
+    "parentId": 7
+  },
+  {
+    "id": 11,
+    "title": "Children"
+  },
+  {
+    "id": 12,
+    "title": "Children Dresses",
+    "parentId": 11
+  },
+  {
+    "id": 13,
+    "title": "Mini Dresses",
+    "parentId": 11
+  },
+  {
+    "id": 14,
+    "title": "Bags & Purses"
+  },
+  {
+    "id": 15,
+    "title": "Bags",
+    "parentId": 14
+  },
+  {
+    "id": 16,
+    "title": "Purses",
+    "parentId": 14
+  },
+  {
+    "id": 17,
+    "title": "Eyewear"
+  },
+  {
+    "id": 18,
+    "title": "Eyewear Style 1",
+    "parentId": 17
+  },
+  {
+    "id": 19,
+    "title": "Eyewear Style 2",
+    "parentId": 17
+  },
+  {
+    "id": 20,
+    "title": "Eyewear Style 3",
+    "parentId": 17
+  },
+  {
+    "id": 21,
+    "title": "Footwear"
+  },
+  {
+    "id": 22,
+    "title": "Footwear 1",
+    "parentId": 21
+  },
+  {
+    "id": 23,
+    "title": "Footwear 2",
+    "parentId": 21
+  },
+  {
+    "id": 24,
+    "title": "Footwear 3",
+    "parentId": 21
+  }
+]

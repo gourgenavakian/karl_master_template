@@ -1,0 +1,55 @@
+# Node.js modules
+node_modules/
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Environment variables
+.env
+.env.local
+.env.development
+.env.test
+.env.production
+
+# Build and cache
+coverage/
+dist/
+build/
+.cache/
+.temp/
+out/
+
+# Local IDE/editor settings
+.vscode/
+.idea/
+
+# Dependency lock files
+package-lock.json*
+yarn.lock
+
+# Static files (if generated dynamically)
+public/images/
+!/public/images/.gitkeep  # Keep the folder structure
+
+# CSS and JS (if generated dynamically)
+!/public/stylesheets/style.css
+
+# Debugger/profiling
+*.repl_history
+*.prof
+*.heapprofile
+*.diagnostic
+*.map
+
+# Docker (if used)
+docker-compose.override.yml
+
+# PM2 processes
+pids/
+*.pid
+*.seed
+*.pid.lock
